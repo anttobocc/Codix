@@ -11,4 +11,4 @@ El proyecto busca facilitar el aprendizaje de conceptos de programación mediant
 HTML  CSS  JavaScript
 
 ## Presentacion
-![Codix](assets/codixPresentation.jpg)
+![Codix](assets/codixpresentacion.jpg)
