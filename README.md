@@ -9,6 +9,3 @@ El proyecto busca facilitar el aprendizaje de conceptos de programación mediant
 
 ## Tecnologías utilizadas
 HTML  CSS  JavaScript
-
-## Presentacion
-![Codix](assets/codixpresentacion.jpg)
